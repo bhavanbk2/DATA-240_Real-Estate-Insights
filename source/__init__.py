@@ -1,0 +1,1 @@
+print("Program to just initialize and ready the setup")
